@@ -7,6 +7,13 @@
 
 ## General info
 This project contains the Jupyter Notebook related to the IGARSS Tutorial held by Dr. Stefania Amici and Dr. Dario Spiller at IGARSS 2022.
+The notebook goes through the loading and inspectioning of the PRISMA data, and presents a simple classification model which as also been used in the following work:
+
+*Spiller, D., Ansalone, L., Amici, S., Piscini, A., Mathieu, P. P., “Analysis and Detection of Wildfires by Using Prisma Hyperspectral Imagery”, ISPRS 2021, July 4-10 2021*
+
+Please be aware that, according to the ASI policy concerning PRISMA data, the reference image used in this notebook should be downloaded from each user. For problems in accessing PRISMA data, please contact the ASI PRISMA team.
+
+Should you have problems using this repository, please also try contacting Dr. Dario Spiller at: dario.spiller@uniroma1.it
 	
 ## Technologies
 Project is created with:
