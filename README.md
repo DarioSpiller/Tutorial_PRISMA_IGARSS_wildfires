@@ -1,11 +1,13 @@
 # Tutorial_PRISMA_IGARSS_wildfires
 
 ## Table of contents
+
 * [General info](#general-info)
 * [Packages](#technologies)
 * [Setup](#setup)
 
 ## General info
+
 This project contains the Jupyter Notebook related to the IGARSS Tutorial held by Dr. Stefania Amici and Dr. Dario Spiller at IGARSS 2022.
 The notebook goes through the loading and inspectioning of the PRISMA data, and presents a simple classification model which as also been used in the following work:
 
@@ -15,7 +17,8 @@ Please be aware that, according to the ASI policy concerning PRISMA data, the re
 
 Should you have problems using this repository, please also try contacting Dr. Dario Spiller at: dario.spiller@uniroma1.it
 	
-## Technologies
+## Requirements
+
 Project is created with:
 * matplotlib==3.2.0
 * Shapely==1.8.1
@@ -34,6 +37,7 @@ Project is created with:
 * tqdm==4.62.3
 
 ## Setup
+
 To run this project, install it locally with all the required packages updated to the versions reported before.
 
 ## License
